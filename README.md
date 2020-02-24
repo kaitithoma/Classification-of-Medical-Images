@@ -15,3 +15,7 @@ an initial try is available.
 - Tensorflow
 - Pandas
 
+## Tip
+We recommend that you use Google Colab in order to run the code faster and without memory errors.
+In "Runtime" option choose "Change runtime type" and "GPU" in "Hardware accelerator"
+
